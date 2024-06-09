@@ -232,7 +232,7 @@ def snake_move():
 
 def monster_move():
     if flag==1: return
-    if direction!=540:
+    if direction!=540:天天体育天通苑
         global absx,absy
         absx=s.xcor()-m.xcor()
         absy=s.ycor()-m.ycor()
