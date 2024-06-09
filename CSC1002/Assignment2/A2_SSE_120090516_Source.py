@@ -269,7 +269,7 @@ def motion():
 
 def change():
     global flag,contact
-    if flag==1:return
+    if flag==1:return1234
     if direction!=540:
         tim=int(time.time()-start_time)
         contact+=contacting()
